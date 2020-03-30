@@ -1,0 +1,4 @@
+0.24s    14213  http://www.google.com
+0.58s   150893  http://www.facebook.com
+0.98s     6400  http://www.amazon.com
+0.98s elapsed
